@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header.jumbotron {
+    background: #f8f9fa;
+    margin-bottom: 0;
+  }
+  
+  .timeline {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .timeline li {
+    margin-bottom: 20px;
+  }
+  
+  .timeline h4 {
+    margin: 0;
+  }
+  
